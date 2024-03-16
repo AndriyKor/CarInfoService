@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{DB48C178-B63F-4F33-A755-CF7713C69E71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{5DA01F6A-BBCC-41C3-AE62-D9E46B89A784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{DB48C178-B63F-4F33-A755-CF7713C69E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB48C178-B63F-4F33-A755-CF7713C69E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB48C178-B63F-4F33-A755-CF7713C69E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA01F6A-BBCC-41C3-AE62-D9E46B89A784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA01F6A-BBCC-41C3-AE62-D9E46B89A784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA01F6A-BBCC-41C3-AE62-D9E46B89A784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA01F6A-BBCC-41C3-AE62-D9E46B89A784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
