@@ -2,7 +2,7 @@
 
 public class Car
 {
-    public int Id { get; set; }
+    public int? Id { get; set; }
     public string Description { get; set; }
     public int ProductionYear { get; set; }
     public string Model { get; set; }

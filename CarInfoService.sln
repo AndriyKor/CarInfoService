@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{5DA01F6A-BBCC-41C3-AE62-D9E46B89A784}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIGraphQL", "WebAPIGraphQL\WebAPIGraphQL.csproj", "{3B74EFCC-8AE1-4B59-AD11-109ACA8135C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,13 @@ Global
 		{5DA01F6A-BBCC-41C3-AE62-D9E46B89A784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DA01F6A-BBCC-41C3-AE62-D9E46B89A784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DA01F6A-BBCC-41C3-AE62-D9E46B89A784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B74EFCC-8AE1-4B59-AD11-109ACA8135C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B74EFCC-8AE1-4B59-AD11-109ACA8135C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B74EFCC-8AE1-4B59-AD11-109ACA8135C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B74EFCC-8AE1-4B59-AD11-109ACA8135C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD4D97D-0AEE-43D8-B9DE-5DC6FF6D3E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD4D97D-0AEE-43D8-B9DE-5DC6FF6D3E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD4D97D-0AEE-43D8-B9DE-5DC6FF6D3E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD4D97D-0AEE-43D8-B9DE-5DC6FF6D3E54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
